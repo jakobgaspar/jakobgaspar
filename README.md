@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... github
 - 📫 How to reach me ... gmail
 - 😄 Pronouns: ... him/he
-- ⚡ Fun fact: ... I play fiitball
+- ⚡ Fun fact: ... I play football
 
 <!---
 jakobgaspar/jakobgaspar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
